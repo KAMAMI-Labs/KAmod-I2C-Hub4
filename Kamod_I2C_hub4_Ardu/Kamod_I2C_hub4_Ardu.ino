@@ -1,3 +1,7 @@
+//example code for KAmod I2C Hub4
+//control 4x MCP23008 with the same I2C address
+//ino board: ESP32-WROOM-DA Module
+
 #include <Wire.h>
 //#include <Adafruit_MCP23X17.h>
 #include <Adafruit_MCP23X08.h>
